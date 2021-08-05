@@ -16,3 +16,4 @@ class ItemDetails():
 
     def getOrderPrice(self):
         return self.orderprice
+
