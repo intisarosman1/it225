@@ -5,6 +5,7 @@ class ItemDetails():
         self.orderquantity=orderquantity
         self.orderprice=orderprice
     
+    
     def getItemID(self):
         return self.itemid
 
